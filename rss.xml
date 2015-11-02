@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Crystal Palace, London]]></title>
+        <description><![CDATA[Crystal Palace, London]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 02 Nov 2015 19:12:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1110de56-99cd-4ee4-91a5-f62d1799cbbf.jpg">]]></description>
+            <link>undefined22e3d8e7-2b89-4751-a769-05a14e465d3d/index.html</link>
+            <guid isPermaLink="false">22e3d8e7-2b89-4751-a769-05a14e465d3d</guid>
+            <pubDate>Mon, 02 Nov 2015 19:12:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
